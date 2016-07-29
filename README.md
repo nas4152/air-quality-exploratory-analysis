@@ -1,1 +1,1 @@
-# air-quality-exploratory-analysis
+# Air Quality Exploratory Analysis
