@@ -1,6 +1,6 @@
 # Air Quality Exploratory Analysis
 
-See Instruchtions file for information on the source of the data
+See Instructions file for information on the source of the data.
 
 ## Plot 1
 
