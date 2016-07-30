@@ -28,3 +28,10 @@ factored into regression line calculation).  The emission data from these source
 would have to be investigated further.  The non-road and point sources both
 showed a decrease as well as a stronger correlation.  The on-road emission data
 shows less extreme highs over time, but no change as the levels remain low.
+
+##Plot 4
+
+Plot 4 examines the change in coal combustion based emissions over time in the 
+US.  While the medians remained low, the upper quantiles increased dramatically,
+particularly between 2005 and 2008.  This shows an increase in extreme high 
+values.
