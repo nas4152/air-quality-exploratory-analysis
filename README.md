@@ -17,3 +17,14 @@ MD.  While this plot does not show a consistent decrease, the overall trend
 remains negative.  The spike in 2005 probably cannot be explained solely by the
 increase in values reported, as there is only a 1.3% increase in values reported
 between 2002 and 2005.  This would have to be further investigated.
+
+##Plot 3
+
+Plot 3 takes the air quality data from Baltimore and breaks down pm 2.5 
+emissions readings by the source type.  A linear regression line was added to 
+each.  While the nonpoint emission data has the most negative slope, it also has
+the least correlation and the greatest range (outliers were cropped but were 
+factored into regression line calculation).  The emission data from these sources
+would have to be investigated further.  The non-road and point sources both
+showed a decrease as well as a stronger correlation.  The on-road emission data
+shows less extreme highs over time, but no change as the levels remain low.
