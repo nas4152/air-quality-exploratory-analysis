@@ -35,3 +35,9 @@ Plot 4 examines the change in coal combustion based emissions over time in the
 US.  While the medians remained low, the upper quantiles increased dramatically,
 particularly between 2005 and 2008.  This shows an increase in extreme high 
 values.
+
+##Plot 5
+
+Plot 5 examines the change in Emissions from motor vehicle sources over time in 
+Baltimore.  There is a slight negative trend, as well as a significant decrease
+in outlier values between 1999 and 2002.
