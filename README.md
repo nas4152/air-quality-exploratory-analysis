@@ -38,6 +38,13 @@ values.
 
 ##Plot 5
 
-Plot 5 examines the change in Emissions from motor vehicle sources over time in 
+Plot 5 examines the change in PM 2.5 emissions from motor vehicle sources over time in 
 Baltimore.  There is a slight negative trend, as well as a significant decrease
 in outlier values between 1999 and 2002.
+
+##Plot 6
+
+Plot 6 examines the change in PM 2.5 emissions attributed to motor vehicle 
+sources. While LA shows a steeper change (and a positive one instead of a 
+negative one), it also has a larger margin of error.  In general the LA data had 
+more outliers and outliers of higher value (even before cropping).
